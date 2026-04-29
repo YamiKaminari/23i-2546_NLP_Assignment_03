@@ -1,0 +1,1 @@
+Here is the Code where I implemented RAG from Scratch . The dataset I used was of the amazon dataset. And in that I have used the FAQs Dataset of Beauty products , Electronics and Cellphones and accessories.
